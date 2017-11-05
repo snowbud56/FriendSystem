@@ -1,0 +1,17 @@
+main: com.snowbud56.Friends
+name: Friends
+version: 1.0
+author: snowbud56
+commands:
+  f:
+  friend:
+  msg:
+  pm:
+  w:
+  whisper:
+  message:
+  m:
+  r:
+  reply:
+  party:
+  p:
